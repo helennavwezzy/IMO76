@@ -22,7 +22,7 @@ Chào mừng đến với hồ sơ GitHub của tôi! Tôi là một Backend Dev
 
 ## Thống kê GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helennavwezzy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Liên kết mạng xã hội
 
