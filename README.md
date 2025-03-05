@@ -20,10 +20,6 @@ Chào mừng đến với hồ sơ GitHub của tôi! Tôi là một Backend Dev
 
 * Backend Developer Trainee tại FPT Software
 
-## Thống kê GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helennavwezzy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Liên kết mạng xã hội
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30">](https://www.linkedin.com/in/canhvan2810/)
